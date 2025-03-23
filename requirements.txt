@@ -1,1 +1,1 @@
-streamlit-calender
+streamlit-calendar
